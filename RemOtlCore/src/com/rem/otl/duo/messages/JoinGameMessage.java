@@ -1,6 +1,5 @@
 package com.rem.otl.duo.messages;
 
-import com.rem.core.Hub;
 import com.rem.duo.MessageHandler;
 import com.rem.duo.messages.Message;
 

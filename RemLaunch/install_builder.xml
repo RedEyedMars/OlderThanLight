@@ -2,8 +2,8 @@
     <shortName>otl</shortName>
     <fullName>Older Than Light</fullName>
     <version>0.9</version>
-    <logoImage>C:/Users/Geoffrey/workspace/RedEyedMars/RemLaunch/icons/icon.png</logoImage>
-    <splashImage>C:/Users/Geoffrey/workspace/RedEyedMars/RemLaunch/icons/logo.png</splashImage>
+    <logoImage>C:/Users/Geoffrey/workspace/OlderThanLight/RemLaunch/icons/icon.png</logoImage>
+    <splashImage>C:/Users/Geoffrey/workspace/OlderThanLight/RemLaunch/icons/logo.png</splashImage>
     <componentList>
         <component>
             <name>default</name>
@@ -63,28 +63,28 @@
                     <platforms>windows</platforms>
                     <distributionFileList>
                         <distributionFile>
-                            <origin>C:/Users/Geoffrey/workspace/RedEyedMars/RemLaunch/OTL/otl.exe</origin>
+                            <origin>C:/Users/Geoffrey/workspace/OlderThanLight/RemLaunch/OTL/otl.exe</origin>
                         </distributionFile>
                         <distributionFile>
-                            <origin>C:/Users/Geoffrey/workspace/RedEyedMars/RemLaunch/OTL/otl_editor.exe</origin>
+                            <origin>C:/Users/Geoffrey/workspace/OlderThanLight/RemLaunch/OTL/otl_editor.exe</origin>
                         </distributionFile>
                         <distributionDirectory>
-                            <origin>C:/Users/Geoffrey/workspace/RedEyedMars/RemLaunch/OTL/data</origin>
+                            <origin>C:/Users/Geoffrey/workspace/OlderThanLight/RemLaunch/OTL/data</origin>
                         </distributionDirectory>
                         <distributionDirectory>
-                            <origin>C:/Users/Geoffrey/workspace/RedEyedMars/RemLaunch/OTL/icons</origin>
+                            <origin>C:/Users/Geoffrey/workspace/OlderThanLight/RemLaunch/OTL/icons</origin>
                         </distributionDirectory>
                         <distributionDirectory>
-                            <origin>C:/Users/Geoffrey/workspace/RedEyedMars/RemLaunch/OTL/jars</origin>
+                            <origin>C:/Users/Geoffrey/workspace/OlderThanLight/RemLaunch/OTL/jars</origin>
                         </distributionDirectory>
                         <distributionDirectory>
-                            <origin>C:/Users/Geoffrey/workspace/RedEyedMars/RemLaunch/OTL/native</origin>
+                            <origin>C:/Users/Geoffrey/workspace/OlderThanLight/RemLaunch/OTL/native</origin>
                         </distributionDirectory>
                         <distributionDirectory>
-                            <origin>C:/Users/Geoffrey/workspace/RedEyedMars/RemLaunch/OTL/res</origin>
+                            <origin>C:/Users/Geoffrey/workspace/OlderThanLight/RemLaunch/OTL/res</origin>
                         </distributionDirectory>
                         <distributionDirectory>
-                            <origin>C:/Users/Geoffrey/workspace/RedEyedMars/RemLaunch/OTL/saves</origin>
+                            <origin>C:/Users/Geoffrey/workspace/OlderThanLight/RemLaunch/OTL/saves</origin>
                         </distributionDirectory>
                     </distributionFileList>
                 </folder>

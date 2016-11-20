@@ -10,7 +10,6 @@ import java.util.LinkedList;
 import java.util.Map;
 import java.util.NoSuchElementException;
 
-import com.rem.core.Hub;
 import com.rem.duo.client.Client;
 import com.rem.duo.messages.Message;
 import com.rem.duo.messages.PassMessage;

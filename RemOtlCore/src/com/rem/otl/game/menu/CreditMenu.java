@@ -25,7 +25,7 @@ public class CreditMenu extends Menu{
 		text.setFontSize(GraphicText.FONT_SIZE_LARGE);
 		text.setJustified(GraphicText.MIDDLE_JUSTIFIED);
 		creditScroll.add(text);
-		CreditButton creditButton = new CreditButton("Older Than Light","https://github.com/RedEyedMars/OnlyTwoLeft");
+		CreditButton creditButton = new CreditButton("Older Than Light","https://github.com/RedEyedMars/OlderThanLight");
 		creditScroll.add(creditButton);
 
 
@@ -34,7 +34,7 @@ public class CreditMenu extends Menu{
 		text.setFontSize(GraphicText.FONT_SIZE_LARGE);
 		text.setJustified(GraphicText.MIDDLE_JUSTIFIED);
 		creditScroll.add(text);
-		creditButton = new CreditButton("RedEyedMars","https://github.com/RedEyedMars/OnlyTwoLeft");
+		creditButton = new CreditButton("RedEyedMars","https://github.com/RedEyedMars/OlderThanLight");
 		creditScroll.add(creditButton);
 
 		creditScroll.add(new GraphicEntity("blank",Hub.BOT_LAYER));
@@ -42,7 +42,7 @@ public class CreditMenu extends Menu{
 		text.setFontSize(GraphicText.FONT_SIZE_LARGE);
 		text.setJustified(GraphicText.MIDDLE_JUSTIFIED);
 		creditScroll.add(text);
-		creditButton = new CreditButton("RedEyedMars","https://github.com/RedEyedMars/OnlyTwoLeft");
+		creditButton = new CreditButton("RedEyedMars","https://github.com/RedEyedMars/OlderThanLight");
 		creditScroll.add(creditButton);
 
 		creditScroll.add(new GraphicEntity("blank",Hub.BOT_LAYER));
